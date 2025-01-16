@@ -1,2 +1,2 @@
 # hinspm
-Sample code for JMP
+Sample code for "Medicaid Enrollment Responses to Wildfire Pollution"
